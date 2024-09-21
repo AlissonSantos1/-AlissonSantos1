@@ -28,8 +28,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/AlissonSantos1/AlissonSantos1/output/snake.svg" alt="Snake animation" />
 
 ###
