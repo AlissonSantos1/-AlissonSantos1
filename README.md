@@ -28,10 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AlissonSantos1/AlissonSantos1/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h6 align="left">Entre em contato comigo! 📭</h6>
 
 ###
@@ -52,5 +48,9 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="whatsapp logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/AlissonSantos1/AlissonSantos1/output/snake.svg" alt="Snake animation" />
 
 ###
